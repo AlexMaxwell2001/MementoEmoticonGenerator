@@ -1,0 +1,8 @@
+<svg width="250" height="250" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<circle id="face" cx="128" cy="128" r="120" style="fill:gold;stroke-width:4;stroke:#000000"/>
+	<path  id="mouth" d=" M100,160 Q128,190 156,160" style="fill:none;stroke:#000;stroke-width:6px;stroke-linecap:round"/>
+	<circle id="right-eye" cx="156" cy="104" r="12" style="fill:black"/>
+	<circle id="left-eye" cx="100" cy="104" r="12" style="fill:black"/>
+	<path  id="left-brow" d=" M65,85 Q74,67 115,75" style="fill:none;stroke:#000;stroke-width:6px;stroke-linecap:round"/>
+	<path  id="right-brow" d=" M150,75 Q190,67 200,85" style="fill:none;stroke:#000;stroke-width:6px;stroke-linecap:round"/>
+</svg>
